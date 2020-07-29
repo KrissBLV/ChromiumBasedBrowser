@@ -20,15 +20,20 @@ namespace ChromiumBasedBrowser
         {
             InitializeComponent();
             InitializeBrowser();
+            InitializeForm();
+        }
+
+        private void InitializeForm()
+        {
+            BrowserTabs.Height = ClientRectangle.Height - 25;
         }
 
         private void InitializeBrowser()
         {
             Cef.Initialize(new CefSettings());
             browser = new ChromiumWebBrowser("https:/google.com");
-            browser.Width = this.Width;
-            browser.Height = this.Height;
-            this.Controls.Add(browser);
+            browser.Dock = DockStyle.Fill;
+            BrowserTabs.TabPages[0].Controls.Add(browser);
             browser.AddressChanged += Browser_AddressChanged;
 
 
