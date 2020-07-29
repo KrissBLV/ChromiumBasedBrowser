@@ -38,6 +38,7 @@
             this.BrowserTabs = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.toolStripButtonAddTab = new System.Windows.Forms.ToolStripButton();
             this.toolStrip1.SuspendLayout();
             this.BrowserTabs.SuspendLayout();
             this.SuspendLayout();
@@ -49,7 +50,8 @@
             this.toolStripButtonBack,
             this.toolStripButtonForward,
             this.toolStripAddressBar,
-            this.toolStripButtonReload});
+            this.toolStripButtonReload,
+            this.toolStripButtonAddTab});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
             this.toolStrip1.Size = new System.Drawing.Size(800, 25);
@@ -134,6 +136,16 @@
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
+            // toolStripButtonAddTab
+            // 
+            this.toolStripButtonAddTab.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.toolStripButtonAddTab.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButtonAddTab.Image")));
+            this.toolStripButtonAddTab.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButtonAddTab.Name = "toolStripButtonAddTab";
+            this.toolStripButtonAddTab.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButtonAddTab.Text = "+";
+            this.toolStripButtonAddTab.Click += new System.EventHandler(this.toolStripButtonAddTab_Click);
+            // 
             // Browser
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -162,6 +174,7 @@
         private System.Windows.Forms.TabControl BrowserTabs;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.ToolStripButton toolStripButtonAddTab;
     }
 }
 
