@@ -34,6 +34,7 @@
             this.toolStripButtonBack = new System.Windows.Forms.ToolStripButton();
             this.toolStripButtonForward = new System.Windows.Forms.ToolStripButton();
             this.toolStripAddressBar = new System.Windows.Forms.ToolStripTextBox();
+            this.toolStripButtonReload = new System.Windows.Forms.ToolStripButton();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -43,7 +44,8 @@
             this.toolStripButtonGo,
             this.toolStripButtonBack,
             this.toolStripButtonForward,
-            this.toolStripAddressBar});
+            this.toolStripAddressBar,
+            this.toolStripButtonReload});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
             this.toolStrip1.Size = new System.Drawing.Size(800, 25);
@@ -85,6 +87,17 @@
             this.toolStripAddressBar.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.toolStripAddressBar.Name = "toolStripAddressBar";
             this.toolStripAddressBar.Size = new System.Drawing.Size(300, 25);
+            this.toolStripAddressBar.KeyDown += new System.Windows.Forms.KeyEventHandler(this.toolStripAddressBar_KeyDown);
+            // 
+            // toolStripButtonReload
+            // 
+            this.toolStripButtonReload.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButtonReload.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButtonReload.Image")));
+            this.toolStripButtonReload.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButtonReload.Name = "toolStripButtonReload";
+            this.toolStripButtonReload.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButtonReload.Text = "toolStripButton1";
+            this.toolStripButtonReload.Click += new System.EventHandler(this.toolStripButtonReload_Click);
             // 
             // Browser
             // 
@@ -108,6 +121,7 @@
         private System.Windows.Forms.ToolStripTextBox toolStripAddressBar;
         private System.Windows.Forms.ToolStripButton toolStripButtonBack;
         private System.Windows.Forms.ToolStripButton toolStripButtonForward;
+        private System.Windows.Forms.ToolStripButton toolStripButtonReload;
     }
 }
 

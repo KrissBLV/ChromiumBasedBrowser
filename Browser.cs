@@ -36,14 +36,7 @@ namespace ChromiumBasedBrowser
 
         private void toolStripButtonGo_Click(object sender, EventArgs e)
         {
-            try
-            {
-                browser.Load(toolStripAddressBar.Text);
-            }
-            catch
-            {
-                
-            }
+            Navigate(toolStripAddressBar.Text);
         }
 
 
@@ -64,6 +57,31 @@ namespace ChromiumBasedBrowser
             {
                 toolStripAddressBar.Text = e.Address;
             }));
+        }
+
+        private void toolStripButtonReload_Click(object sender, EventArgs e)
+        {
+            browser.Reload();
+        }
+
+        private void toolStripAddressBar_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Enter)
+            {
+                Navigate(toolStripAddressBar.Text);
+            }
+        }
+
+        private void Navigate(string address)
+        {
+            try
+            {
+                browser.Load(address);
+            }
+            catch
+            {
+
+            }
         }
     }
 }
