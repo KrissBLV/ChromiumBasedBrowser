@@ -31,9 +31,9 @@ namespace ChromiumBasedBrowser
         private void InitializeBrowser()
         {
             Cef.Initialize(new CefSettings());
+            BrowserTabs.TabPages[0].Dispose();
+            BrowserTabs.TabPages[0].Dispose();
             AddBrowserTab();
-            BrowserTabs.TabPages[0].Dispose();
-            BrowserTabs.TabPages[0].Dispose();
 
 
         }

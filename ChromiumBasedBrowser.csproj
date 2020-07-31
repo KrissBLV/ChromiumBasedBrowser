@@ -115,6 +115,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -129,6 +130,3660 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\youtube_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\youtube_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2x2_grid_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2x2_grid_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2x2_grid_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2x2_grid_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3x3_grid_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3x3_grid_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3x3_grid_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3x3_grid_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3x3_grid_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3x3_grid_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3x3_grid_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3x3_grid_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\air_signal_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\air_signal_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\air_signal_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\air_signal_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_center_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_center_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_center_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_center_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_just_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_just_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_just_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_just_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_left_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_left_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_left_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_left_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_right_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_right_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_right_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\align_right_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_black&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_black&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_black&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_black&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_black_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_black_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_black_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_black_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_cross&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_cross&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_cross&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_cross&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_cross_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_cross_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_cross_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_cross_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_shell&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_shell&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_shell&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_shell&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_shell_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_shell_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_shell_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_window_shell_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_left_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_left_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_left_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_left_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_rigth_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_rigth_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_rigth_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_bottom_rigth_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_l_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_l_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_l_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_l_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_left_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_left_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_left_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_left_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_r_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_r_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_r_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_r_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_right_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_right_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_right_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_right_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_left_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_left_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_left_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_left_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_right_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_right_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_right_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_top_right_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_two_head_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_two_head_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_two_head_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_two_head_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_two_head_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_two_head_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_two_head_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_two_head_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attention_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attention_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attention_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attention_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balance_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balance_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balance_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balance_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\battery_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\battery_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\battery_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\battery_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bell_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bell_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bell_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bell_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_side_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_side_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_side_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_side_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookmark_1_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookmark_1_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookmark_1_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookmark_1_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookmark_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookmark_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookmark_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookmark_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_down_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_down_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_up_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_up_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brackets_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brackets_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brackets_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brackets_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\browser_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\browser_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\browser_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\browser_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brush_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bug_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bug_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bug_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bug_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burst_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burst_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burst_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burst_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calc_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calc_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calc_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calc_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_1_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_1_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_1_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_1_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cassette_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cassette_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cassette_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cassette_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cc_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cc_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cc_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cc_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cert_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cert_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cert_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cert_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_bar_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_bar_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_bar_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_bar_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_line_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_line_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_line_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_line_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_line_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_line_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_line_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_line_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_pie_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_pie_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_pie_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart_pie_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat_bubble_message_square_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat_bubble_message_square_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat_bubble_message_square_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat_bubble_message_square_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkbox_checked_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkbox_checked_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkbox_checked_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkbox_checked_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkbox_unchecked_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkbox_unchecked_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkbox_unchecked_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkbox_unchecked_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkmark_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkmark_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkmark_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkmark_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clip_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clip_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clip_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clip_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_copy_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_copy_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_copy_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_copy_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_cut_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_cut_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_cut_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_cut_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_past_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_past_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_past_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_past_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud_rain_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud_rain_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud_rain_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloud_rain_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffe_cup_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffe_cup_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffe_cup_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffe_cup_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cog_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cogs_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cogs_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cogs_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cogs_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comp_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comp_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comp_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comp_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compass_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compass_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compass_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compass_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact_card_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact_card_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact_card_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact_card_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cube_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cube_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cube_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cube_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_bp_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_bp_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_bp_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_bp_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_dollar_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_dollar_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_dollar_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_dollar_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_euro_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_euro_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_euro_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_euro_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_yen_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_yen_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_yen_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cur_yen_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_arrow_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_arrow_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_arrow_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_arrow_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_arrow_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_arrow_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_arrow_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_arrow_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_arrow_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_arrow_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_arrow_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_arrow_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_hand_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_hand_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_hand_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_drag_hand_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_H_split_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_H_split_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_H_split_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_H_split_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_hand_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_hand_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_hand_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_hand_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_V_split_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_V_split_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_V_split_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cursor_V_split_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_server_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_server_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_server_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_server_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disconnected_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disconnected_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disconnected_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disconnected_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_delete_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_delete_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_delete_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_delete_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_edit_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_edit_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_edit_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_edit_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_empty_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_empty_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_empty_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_empty_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_export_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_export_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_export_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_export_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_import_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_import_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_import_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_import_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_lines_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_lines_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_lines_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_lines_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_lines_stright_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_lines_stright_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_lines_stright_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_lines_stright_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_minus_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_minus_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_minus_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_minus_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_new_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_new_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_new_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_new_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_plus_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_plus_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_plus_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_plus_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eject_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eject_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eject_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eject_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emotion_sad_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emotion_sad_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emotion_sad_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emotion_sad_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emotion_smile_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emotion_smile_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emotion_smile_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emotion_smile_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expand_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expand_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expand_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expand_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_inv_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_inv_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_inv_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_inv_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fastforward_next_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fastforward_next_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fastforward_next_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fastforward_next_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fill_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fill_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fill_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fill_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fire_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fire_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fire_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fire_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flag_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_arrow_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_arrow_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_arrow_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_arrow_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_delete_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_delete_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_delete_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_delete_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_minus_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_minus_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_minus_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_minus_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_open_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_open_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_open_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_open_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_plus_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_plus_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_plus_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_plus_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_bold_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_bold_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_bold_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_bold_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_italic_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_italic_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_italic_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_italic_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_size_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_size_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_size_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_size_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_strokethrough_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_strokethrough_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_strokethrough_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_strokethrough_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_underline_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_underline_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_underline_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_underline_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game_pad_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game_pad_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game_pad_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game_pad_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glasses_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glasses_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glasses_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glasses_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_1_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_1_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_1_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_1_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_3_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_3_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_3_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_3_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_1_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_1_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_1_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_1_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_contra_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_contra_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_contra_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_contra_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_pro_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_pro_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_pro_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_pro_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hanger_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hanger_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hanger_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hanger_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\headphones_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\headphones_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\headphones_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\headphones_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart_empty_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart_empty_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart_empty_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart_empty_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_text_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_text_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_text_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_text_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\import_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\import_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\import_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\import_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inbox_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inbox_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inbox_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inbox_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indent_decrease_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indent_decrease_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indent_decrease_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indent_decrease_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indent_increase_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indent_increase_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indent_increase_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indent_increase_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inject_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inject_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inject_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inject_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible_light_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible_light_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible_light_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible_light_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible_revert_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible_revert_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible_revert_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible_revert_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iphone_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iphone_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iphone_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iphone_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layers_1_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layers_1_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layers_1_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layers_1_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layers_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layers_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layers_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layers_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightbulb_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightbulb_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightbulb_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightbulb_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lighting_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lighting_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lighting_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lighting_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\link_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\link_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\link_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\link_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_bullets_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_bullets_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_bullets_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_bullets_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_num_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_num_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_num_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_num_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading_throbber_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading_throbber_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading_throbber_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading_throbber_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_open_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_open_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_open_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_open_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic_wand_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic_wand_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic_wand_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic_wand_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic_wand_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic_wand_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic_wand_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic_wand_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\message_attention_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\message_attention_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\message_attention_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\message_attention_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mic_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mic_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mic_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mic_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microphone_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microphone_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microphone_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microphone_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\movie_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\movie_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\movie_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\movie_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music_square_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music_square_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music_square_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music_square_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\net_comp_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\net_comp_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\net_comp_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\net_comp_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\network_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\network_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\network_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\network_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\not_connected_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\not_connected_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\not_connected_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\not_connected_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\off_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\off_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\off_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\off_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\on_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\on_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\on_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\on_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\on-off_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\on-off_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\on-off_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\on-off_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openid_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openid_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openid_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openid_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock_closed_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock_closed_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock_closed_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock_closed_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock_open_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock_open_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock_open_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock_open_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_layout_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_layout_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_layout_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_layout_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper_airplane_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper_airplane_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper_airplane_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper_airplane_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paragraph_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paragraph_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paragraph_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paragraph_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_1_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_1_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_1_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_1_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_touch_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_touch_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_touch_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_touch_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_down_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_down_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_down_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_down_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_left_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_left_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_left_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_left_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_right_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_right_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_right_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_right_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_top_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_top_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_top_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_map_top_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_down_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_down_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_down_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_down_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_left_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_left_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_left_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_left_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_right_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_right_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_right_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_right_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_top_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_top_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_top_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pin_sq_top_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_ff_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_ff_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_ff_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_ff_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_next_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_next_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_next_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_next_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_pause_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_pause_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_pause_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_pause_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_play_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_play_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_play_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_play_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_prev_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_prev_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_prev_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_prev_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_rec_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_rec_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_rec_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_rec_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_rew_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_rew_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_rew_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_rew_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_stop_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_stop_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_stop_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_stop_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\podcast_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\podcast_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\podcast_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\podcast_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preso_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preso_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preso_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preso_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\push_pin_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\push_pin_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\push_pin_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\push_pin_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redo_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redo_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redo_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redo_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rewind_previous_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rewind_previous_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rewind_previous_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rewind_previous_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_down_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_down_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_down_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_down_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_first_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_first_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_first_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_first_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_last_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_last_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_last_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_last_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_next_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_next_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_next_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_next_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_prev_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_prev_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_prev_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_prev_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_up_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_up_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_up_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rnd_br_up_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_and_up_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_and_up_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_and_up_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_and_up_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_arrow_left_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_arrow_left_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_arrow_left_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_arrow_left_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_arrow_right_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_arrow_right_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_arrow_right_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_arrow_right_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_checkmark_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_checkmark_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_checkmark_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_checkmark_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_delete_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_delete_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_delete_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_delete_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_minus_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_minus_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_minus_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_minus_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_plus_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_plus_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_plus_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\round_plus_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss_sq_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss_sq_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss_sq_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rss_sq_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sand_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sand_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sand_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sand_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sat_dish_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sat_dish_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sat_dish_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sat_dish_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\server_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\server_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\server_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\server_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shapes_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shapes_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shapes_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shapes_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\share_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\share_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\share_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\share_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\share_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\share_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\share_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\share_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shield_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop_cart_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop_cart_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop_cart_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop_cart_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_bag_dollar_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_bag_dollar_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_bag_dollar_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_bag_dollar_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_bag_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_bag_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_bag_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_bag_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_high_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_high_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_high_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_high_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_low_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_low_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_low_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_low_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_mute_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_mute_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_mute_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound_mute_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_sq_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_sq_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_sq_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_sq_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_sq_line_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_sq_line_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_sq_line_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spechbubble_sq_line_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_down_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_down_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_down_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_down_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_first_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_first_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_first_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_first_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_last_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_last_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_last_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_last_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_next_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_next_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_next_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_next_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_prev_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_prev_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_prev_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_prev_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_up_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_up_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_up_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_br_up_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_down_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_down_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_down_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_down_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_minus_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_minus_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_minus_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_minus_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_next_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_next_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_next_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_next_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_plus_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_plus_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_plus_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_prev_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_prev_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_prev_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_prev_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_up_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_up_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_up_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_up_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\square_shape_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\square_shape_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\square_shape_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\square_shape_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stairs_down_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stairs_down_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stairs_down_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stairs_down_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stairs_up_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stairs_up_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stairs_up_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stairs_up_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_fav_empty_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_fav_empty_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_fav_empty_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_fav_empty_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_fav_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_fav_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_fav_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_fav_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop_watch_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop_watch_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop_watch_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop_watch_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sun_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sun_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sun_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sun_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tag_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tag_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tag_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tag_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tape_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tape_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tape_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tape_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\target_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\target_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\target_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\target_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_curstor_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_curstor_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_curstor_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_curstor_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_letter_t_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_letter_t_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_letter_t_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_letter_t_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top_right_expand_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top_right_expand_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top_right_expand_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top_right_expand_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\track_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\track_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\track_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\track_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vault_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vault_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vault_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vault_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallet_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallet_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallet_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallet_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wifi_router_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wifi_router_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wifi_router_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wifi_router_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wireless_signal_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wireless_signal_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wireless_signal_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wireless_signal_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_plus_2_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_plus_2_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_plus_2_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_plus_2_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_plus_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_plus_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_plus_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_plus_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\youtube_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\youtube_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_down_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_next_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_next_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_next_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_prev_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_prev_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_prev_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_prev_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_up_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_up_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_down_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_reload_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload_icon&amp;48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_reload_icon&amp;16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_reload_icon&amp;24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playback_reload_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\br_next_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blackr_next_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sq_plus_icon&amp;32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sblackq_plus_icon&amp;32.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
